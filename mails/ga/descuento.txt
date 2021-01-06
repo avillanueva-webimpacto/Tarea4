@@ -1,0 +1,3 @@
+Hola {firstname} {lastname}
+Por tu fidelidad hemos creado un cupon descuento
+Código del cupon: {codediscount}
